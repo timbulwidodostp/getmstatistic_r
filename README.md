@@ -1,6 +1,8 @@
 # getmstatistic_r
 Quantifying Systematic Heterogeneity in Meta-Analysis Use getmstatistic With (In) R Software
 
+https://www.youtube.com/watch?v=OVj7ppfat0Q
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
